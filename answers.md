@@ -4,7 +4,7 @@ LEVEL 4 COMPLETE: fixed the hallway sign
 
 LEVEL 6 CHEST CODE: FOX-7
 
-LEVEL 8 PR LINK: gh pr checkout 22
+LEVEL 8 PR LINK: https://github.com/janjan090/cpe411l-git-quest/pull/22
 
 LEVEL 10 COMPLETE: I submitted my proof
 
